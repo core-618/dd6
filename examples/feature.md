@@ -24,7 +24,7 @@ Score: 12 → **standard discovery**. 2-4 sessions to clarify notification rules
 
 ---
 
-## Complex feature — deep discovery needed
+## Feature with a dominant dimension
 
 Intake: redesign the onboarding flow to reduce churn by 15%
 
