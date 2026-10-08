@@ -14,7 +14,7 @@ name: AI Code Review
 on:
   pull_request:
     branches: [dev]
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize, reopened, ready_for_review]
 
 # Um push a seguir a outro cancela a revisão anterior. Sem isto, quem faz
 # três commits seguidos paga três revisões e recebe três comentários.
